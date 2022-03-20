@@ -4,11 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+    <h1>Jelaga Catalin CR-191</h1>,
+    document.getElementById('root')
 );
 
 // If you want to start measuring performance in your app, pass a function
